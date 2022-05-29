@@ -1,0 +1,11 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Felipalds/node-js.git",
+  "author": "Luiz Felipe Fonseca Rosa <luizfelipefonsecarosa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^2.0.0"
+  }
+}
