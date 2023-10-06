@@ -14,13 +14,17 @@
 ## Event Loop
 - Observes the call stack. IF it is empty, it will look to microTasks and Tasks
 
-
-
-
-
 ## Heap
 - Memory allocation, variables and objects
 
+## V8
+- Is the engine that interprets our JS code 
+
+## Libuv
+- Is a C++ Scheduler, used to Event Lopp or Call Stack
+
+## NodeJS
+- Is a C++ Program that is in the middle of our JS Code, our V8 Interpreter and our Libuv Scheduler
 
 
 ### Articles recomendation:
