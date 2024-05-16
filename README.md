@@ -30,3 +30,7 @@
 ### Articles recomendation:
 - https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec
 - https://www.youtube.com/watch?v=YI9ckiCuuoc
+
+## MEMORY ADDRESS:
+- https://dev.to/arthurbiensur/kind-of-getting-the-memory-address-of-a-javascript-object-2mnd
+- https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0
